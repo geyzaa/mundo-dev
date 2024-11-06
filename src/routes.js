@@ -6,7 +6,7 @@ import SobreMim from "./paginas/Sobremim";
 
 
 
-function App() {
+function AppRoutes() {
   return (
     <BrowserRouter>
       <Menu /> 
@@ -19,6 +19,6 @@ function App() {
   );
 }
 
-export default App;
+export default AppRoutes;
 
 //fora da tag routes, o menu fica fixo em todas as pag da aplicação
