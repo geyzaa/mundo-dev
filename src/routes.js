@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Menu from "./componentes/menu";
 import Inicio from "./paginas/inicio";
-import SobreMim from "./paginas/Sobremim";
+import SobreMim from "./paginas/sobreMim";
 import Rodape from "componentes/rodape";
 import PaginaPadrao from "componentes/paginaPadrao";
 
